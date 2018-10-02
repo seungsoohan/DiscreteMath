@@ -1,8 +1,0 @@
-(model 
-  (define-fun m36 () Int
-    8)
-  (define-fun m77 () Int
-    5)
-  (define-fun m56 () Int
-    6)
-)

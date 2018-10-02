@@ -9,3 +9,12 @@ z3 formula.txt > raw_data
 gcc parsing.c -o parsing
 
 ./parsing < raw_data
+
+mkdir result
+mv formula.txt result
+mv pa1 result
+mv parsing result
+
+rm raw_data
+
+echo "complete processing!!"
