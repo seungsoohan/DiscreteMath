@@ -1,0 +1,164 @@
+(model 
+  (define-fun m36 () Int
+    8)
+  (define-fun m77 () Int
+    5)
+  (define-fun m56 () Int
+    6)
+  (define-fun m99 () Int
+    4)
+  (define-fun m23 () Int
+    1)
+  (define-fun m39 () Int
+    2)
+  (define-fun m13 () Int
+    4)
+  (define-fun m15 () Int
+    7)
+  (define-fun m33 () Int
+    5)
+  (define-fun m88 () Int
+    3)
+  (define-fun m66 () Int
+    9)
+  (define-fun m91 () Int
+    3)
+  (define-fun m28 () Int
+    5)
+  (define-fun m34 () Int
+    4)
+  (define-fun m48 () Int
+    2)
+  (define-fun m37 () Int
+    1)
+  (define-fun m69 () Int
+    5)
+  (define-fun m71 () Int
+    4)
+  (define-fun m76 () Int
+    2)
+  (define-fun m19 () Int
+    8)
+  (define-fun m55 () Int
+    2)
+  (define-fun m46 () Int
+    5)
+  (define-fun m62 () Int
+    6)
+  (define-fun m27 () Int
+    4)
+  (define-fun m17 () Int
+    3)
+  (define-fun m61 () Int
+    1)
+  (define-fun m25 () Int
+    9)
+  (define-fun m42 () Int
+    8)
+  (define-fun m74 () Int
+    6)
+  (define-fun m16 () Int
+    1)
+  (define-fun m68 () Int
+    4)
+  (define-fun m65 () Int
+    8)
+  (define-fun m31 () Int
+    9)
+  (define-fun m82 () Int
+    5)
+  (define-fun m79 () Int
+    1)
+  (define-fun m53 () Int
+    3)
+  (define-fun m45 () Int
+    4)
+  (define-fun m73 () Int
+    7)
+  (define-fun m93 () Int
+    8)
+  (define-fun m95 () Int
+    5)
+  (define-fun m57 () Int
+    8)
+  (define-fun m97 () Int
+    2)
+  (define-fun m41 () Int
+    7)
+  (define-fun m64 () Int
+    3)
+  (define-fun m22 () Int
+    7)
+  (define-fun m87 () Int
+    9)
+  (define-fun m43 () Int
+    9)
+  (define-fun m49 () Int
+    3)
+  (define-fun m54 () Int
+    7)
+  (define-fun m11 () Int
+    6)
+  (define-fun m83 () Int
+    6)
+  (define-fun m85 () Int
+    1)
+  (define-fun m44 () Int
+    1)
+  (define-fun m98 () Int
+    6)
+  (define-fun m96 () Int
+    7)
+  (define-fun m94 () Int
+    9)
+  (define-fun m92 () Int
+    1)
+  (define-fun m89 () Int
+    7)
+  (define-fun m86 () Int
+    4)
+  (define-fun m84 () Int
+    8)
+  (define-fun m81 () Int
+    2)
+  (define-fun m78 () Int
+    8)
+  (define-fun m75 () Int
+    3)
+  (define-fun m72 () Int
+    9)
+  (define-fun m67 () Int
+    7)
+  (define-fun m63 () Int
+    2)
+  (define-fun m59 () Int
+    9)
+  (define-fun m58 () Int
+    1)
+  (define-fun m52 () Int
+    4)
+  (define-fun m51 () Int
+    5)
+  (define-fun m47 () Int
+    6)
+  (define-fun m38 () Int
+    7)
+  (define-fun m35 () Int
+    6)
+  (define-fun m32 () Int
+    3)
+  (define-fun m29 () Int
+    6)
+  (define-fun m26 () Int
+    3)
+  (define-fun m24 () Int
+    2)
+  (define-fun m21 () Int
+    8)
+  (define-fun m18 () Int
+    9)
+  (define-fun m14 () Int
+    5)
+  (define-fun m12 () Int
+    2)
+)

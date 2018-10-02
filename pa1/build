@@ -1,0 +1,11 @@
+#!/bin/bash
+
+gcc "$1" -o pa1
+
+./pa1 < "$2" > formula.txt
+
+z3 formula.txt > raw_data
+
+gcc parsing.c -o parsing
+
+./parsing < raw_data
