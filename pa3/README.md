@@ -1,3 +1,4 @@
-NOT COMPLETED
+How to Run
+=> ./build input.txt
 
 

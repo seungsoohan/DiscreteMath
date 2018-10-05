@@ -1,1 +1,4 @@
-./build sol1.c input.txt
+How to Run
+=> ./build input.txt
+
+

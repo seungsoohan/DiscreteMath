@@ -1,20 +1,30 @@
 #!/bin/bash
 
-gcc "$1" -o pa1
+if [ $1 ]
+then
 
-./pa1 < "$2" > formula.txt
+gcc sol1.c -o pa1
+
+
+./pa1 < "$1" > formula.txt
 
 z3 formula.txt > raw_data
 
 gcc parsing.c -o parsing
 
-./parsing < raw_data
+./parsing < raw_data > output.txt
 
-mkdir result
+mkdir -p result
 mv formula.txt result
 mv pa1 result
 mv parsing result
 
 rm raw_data
 
+cat output.txt
+
 echo "complete processing!!"
+
+else
+	echo "need input file!!"
+fi
