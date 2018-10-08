@@ -10,7 +10,7 @@ gcc sol1.c -o pa1
 
 z3 formula.txt > raw_data
 
-gcc parsing.c -o parsing
+gcc parsing1.c -o parsing
 
 ./parsing < raw_data > output.txt
 
